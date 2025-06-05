@@ -53,7 +53,7 @@ import { RouterLink } from 'vue-router';
 
         <div class="relative flex-1 m-2">
           <img
-            src="image/IMG_3366.JPG"
+            src="/image/IMG_3366.JPG"
             alt="What's New"
             class="w-full h-54 object-cover rounded-lg"
           />
@@ -72,7 +72,7 @@ import { RouterLink } from 'vue-router';
 
         <div class="relative flex-1 m-2">
           <img
-            src="image/IMG_3368.JPG"
+            src="/image/IMG_3368.JPG"
             alt="Buy 1 Get 1"
             class="w-full h-54 object-cover rounded-lg"
           />
