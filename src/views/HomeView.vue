@@ -34,7 +34,7 @@ import { RouterLink } from 'vue-router';
       >
         <div class="relative flex-1 m-2">
           <img
-            src="../assets/image/IMG_3362.JPG"
+            src="imageUrl"
             alt="Summer Collection"
             class="w-full h-54 object-cover rounded-lg"
           />
@@ -446,6 +446,7 @@ import HeadphoneWidget from "@/components/poster.vue";
 import Slider from "@/components/Slider.vue";
 import ProductCard from "../components/ProductCard.vue";
 import Footers from "../components/Footers.vue";
+import imageUrl from "@/assets/image/IMG_3362.JPG";
 
 export default {
   data() {
