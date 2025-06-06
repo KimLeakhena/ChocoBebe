@@ -34,7 +34,7 @@ import { RouterLink } from 'vue-router';
       >
         <div class="relative flex-1 m-2">
           <img
-            src="/image/IMG_3362.JPG"
+            src="../assets/image/IMG_3362.JPG"
             alt="Summer Collection"
             class="w-full h-54 object-cover rounded-lg"
           />
